@@ -1,0 +1,15 @@
+# Core dependencies
+pillow>=9.0.0          # Image processing
+numpy>=1.21.0          # Array operations
+
+# Testing
+pytest>=7.0.0          # Testing framework
+pytest-cov>=4.0.0      # Coverage reporting
+
+# Development
+black>=22.0.0          # Code formatting
+pylint>=2.15.0         # Code analysis
+mypy>=0.950            # Type checking
+
+# Documentation
+sphinx>=5.0.0          # Documentation generator
