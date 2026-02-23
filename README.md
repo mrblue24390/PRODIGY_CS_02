@@ -19,7 +19,7 @@
 
 ## 📋 Table of Contents
 - [Overview](#overview)
-- [Features](#features)
+- [Features](#features)  
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
@@ -102,11 +102,11 @@ The **Image Encryption Tool** is a comprehensive Python application that demonst
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Image-Encryption-Tool.git
-cd Image-Encryption-Tool
+git clone https://github.com/mrblue24390/PRODIGY_CS_02.git
+cd PRODIGY_CS_02
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the tool
-python src/image_encryption.py
+python code.py
