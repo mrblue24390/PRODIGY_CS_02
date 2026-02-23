@@ -1,0 +1,11 @@
+# Run all tests
+pytest tests/ -v
+
+# Run with coverage
+pytest tests/ --cov=src --cov-report=html
+
+# Run specific test
+pytest tests/test_encryption.py -v
+
+# Run performance tests
+pytest tests/test_performance.py -v
